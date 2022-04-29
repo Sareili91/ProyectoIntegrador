@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+body{
+    margin:0;
+    padding: 0;
+    background-color: cornflowerblue;
+    font-family: 'Fredoka', sans-serif;
+}
+
+div.menu{
+margin:auto;
+width: 50%;
+border-radius: 20px;
+text-align: center;
+background-color: rgb(173, 173, 255);
+color:rgb(0, 0, 0);
+}
+
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+
+
+
