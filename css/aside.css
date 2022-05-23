@@ -1,0 +1,40 @@
+
+h2{
+    color: black;
+}
+
+
+.container2{
+    width:185px;
+    height: 753px;
+    float:right;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    border: 3px solid #0a0a0a;
+    text-align: center;
+}
+
+.container1{
+    width:185px;
+    height: 753px;
+    float: left;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    border: 3px solid #0a0a0a;
+    text-align: center;
+}
+
+
+.container2 img{
+    width: 100%;
+    height: 100%;
+}
+.container1 img{
+    width: 100%;
+    height: 100%;
+}
+
